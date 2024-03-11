@@ -1,0 +1,23 @@
+{
+  "name": "anay-208",
+  "version": "1.0.0",
+  "description": "anay-208, just a placeholder package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anay-208/anay-208.git"
+  },
+  "keywords": [
+    "anay",
+    "anay-208"
+  ],
+  "author": "anay-208",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anay-208/anay-208/issues"
+  },
+  "homepage": "https://github.com/anay-208/anay-208#readme"
+}
