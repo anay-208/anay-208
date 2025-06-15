@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Anay<br>A Self Taught, Full Stack Developer from India<br>🌱 I’m currently learning Game Development, and queued up to learn Penetration testing
+Hi 👋, I'm Anay<br>A Self Taught, Full Stack Developer from India<br>🌱 I’m currently learning django
 
 
 ## 🌐 Socials:
